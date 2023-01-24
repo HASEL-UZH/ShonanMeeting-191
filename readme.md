@@ -1,4 +1,3 @@
-# Shonan Meeting No. 191: Human Aspects of Software Engineering
 ![Japan](/images/japan.jpg)
 
 ## A warm welcome from the Organizers!
