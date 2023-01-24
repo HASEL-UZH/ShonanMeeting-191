@@ -69,7 +69,8 @@ This meeting will bring together leading researchers to discuss current and futu
 * 4-day meeting from Monday (March, 6, 2023) to Thursday (March, 10, 2023)
 * Venue: [Shonan OVA, Japan](http://shonan-ova.jp/)
 
-## We thank our generous Sponsors
+## We thank our generous Sponsor
+![NII Logo](https://www.nii.ac.jp/_img/_logo/en_mainLogo.gif)
 
 ## Report
 Will be created at the end of the Shonan meeting.
