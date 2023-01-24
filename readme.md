@@ -1,4 +1,5 @@
 # Shonan Meeting No. 191: Human Aspects of Software Engineering
+![Japan](/images/japan.jpg)
 
 ## A warm welcome from the Organizers!
 * Thomas Fritz (University of Zurich, Switzerland)
@@ -70,7 +71,7 @@ This meeting will bring together leading researchers to discuss current and futu
 * Venue: [Shonan OVA, Japan](http://shonan-ova.jp/)
 
 ## We thank our generous Sponsor
-![NII Logo](https://www.nii.ac.jp/_img/_logo/en_mainLogo.gif)
+![NII Logo](/images/nii_logo.gif)
 
 ## Report
 Will be created at the end of the Shonan meeting.
