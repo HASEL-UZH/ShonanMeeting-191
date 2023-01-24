@@ -10,9 +10,9 @@
 ## What is a Shonan Meeting?
 Excerpt from NII:
 
-NII Shonan Meetings, following the well-known Dagstuhl Seminars, aim to internationally promote informatics its research, by providing another world's premier venue for world-class scientists, promising young researchers, and practitioners to come together in Asia to exchange their knowledge, discuss their research findings, and explore a cutting-edge informatics topics.
+> NII Shonan Meetings, following the well-known Dagstuhl Seminars, aim to internationally promote informatics its research, by providing another world's premier venue for world-class scientists, promising young researchers, and practitioners to come together in Asia to exchange their knowledge, discuss their research findings, and explore a cutting-edge informatics topics.
 
-The meetings are held in Shonan Village Center near Tokyo, which offers facilities for conferences, trainings, and lodging in a resort-like setting. The friendly and open atmosphere is to promote communications among participants. The NII Shonan Meetings are managed by National Institute of Informatics (NII), Japan.
+> The meetings are held in Shonan OVA near Tokyo, which offers facilities for conferences, trainings, and lodging in a resort-like setting. The friendly and open atmosphere is to promote communications among participants. The NII Shonan Meetings are managed by National Institute of Informatics (NII), Japan.
 
 ## Meeting Abstract
 Software is built by humans. Software developers are the ones who develop and evolve code, that elicit requirements, test the software, and talk to their teammates to coordinate. Yet, traditionally, research has focused to a large extent on normative processes and artefacts – how developers ought to develop software, the digital objects developers have created or modified, measuring their output, and collecting data from software repositories.
