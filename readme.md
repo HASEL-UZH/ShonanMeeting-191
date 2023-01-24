@@ -7,7 +7,7 @@
 * Thomas Zimmermann (Microsoft, USA)
 * Thomas Fritz (University of Zurich, Switzerland)
 
-_(The organizing is supported by André Meyer (University of Zurich, Switzerland))_
+_(The organizers are supported by André Meyer (University of Zurich, Switzerland))_
 
 ## What is a Shonan Meeting?
 Excerpt from NII:
