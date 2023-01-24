@@ -14,6 +14,11 @@ Excerpt from NII:
 
 > The meetings are held in Shonan OVA near Tokyo, which offers facilities for conferences, trainings, and lodging in a resort-like setting. The friendly and open atmosphere is to promote communications among participants. The NII Shonan Meetings are managed by National Institute of Informatics (NII), Japan.
 
+## Meeting Topics
+* New future of work
+* Develop Productivity
+* AI for software engineering
+
 ## Meeting Abstract
 Software is built by humans. Software developers are the ones who develop and evolve code, that elicit requirements, test the software, and talk to their teammates to coordinate. Yet, traditionally, research has focused to a large extent on normative processes and artefacts – how developers ought to develop software, the digital objects developers have created or modified, measuring their output, and collecting data from software repositories.
 
