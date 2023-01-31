@@ -42,7 +42,7 @@ This meeting will bring together leading researchers to discuss current and futu
 
 **Industrial impact**. Industrial participants can benefit greatly from this seminar by learning and discussing existing state-of-the-art research as well as finding suitable potential collaborators.
 
-## Meeting Format (tentative)
+## Meeting Agenda (`tentative`)
 * **March, 5th, Sunday Evening**
   * Welcome Reception
 * **March, 6th, Monday Morning**
