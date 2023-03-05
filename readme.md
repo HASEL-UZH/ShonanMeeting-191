@@ -18,7 +18,7 @@ Excerpt from NII:
 
 ## Meeting Topics
 * New future of work
-* Develop Productivity
+* Developer Productivity
 * AI for software engineering
 
 ## Meeting Abstract
