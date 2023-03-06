@@ -71,7 +71,32 @@ This meeting will bring together leading researchers to discuss current and futu
   * Wrap up
 
 ## Participants
-`will be uploaded on Tuesday`
+
+* Thomas Fritz, University of Zurich (Organizer)
+* Yasutaka Kamei, Kyushu University (Organizer)
+* Thomas Zimmermann, Microsoft (Organizer)
+* André N. Meyer, University of Zurich (Supporting organizers)
+* Raula Kula, Nara Institute of Science and Technology
+* Jin Guo, McGill University
+* Hideaki Hata, Shinshu University
+* Alexander Serebrenik, Eindhoven University of Technology
+* Kelly Blincoe, University of Auckland
+* Daniel German, University of Victoria
+* Reid Holmes, University of British Columbia
+* Michele Lanza, Software Institute - USI, Lugano, Universita della Svizzera italiana
+* Gail C. Murphy, University of British Columbia
+* Bin Lin, Radboud University
+* Margaret Storey, University of Victoria
+* Dong Wang, Kyushu University
+* Masanari Kondo, Kyushu University
+* Andrew Begel, Carnegie Mellon University
+* Jon Whittle, CSIRO's Data61
+* Christoph Treude, The University of Melbourne
+* Foutse Khomh, Polytechnique Montréal
+* Daniel Russo, Aalborg University 
+* Takashi Kobayashi, Tokyo Institute of Technology
+* Nicole Novielli, University of Bari
+* Filippo Lanubile, University of Bari
 
 ## Additional Information
 * [Official Webpage from NII](https://shonan.nii.ac.jp/seminars/191/)
