@@ -42,34 +42,36 @@ This meeting will bring together leading researchers to discuss current and futu
 
 **Industrial impact**. Industrial participants can benefit greatly from this seminar by learning and discussing existing state-of-the-art research as well as finding suitable potential collaborators.
 
-## Meeting Agenda (`tentative`)
+## Meeting Agenda
 * **March, 5th, Sunday Evening**
   * Welcome Reception
 * **March, 6th, Monday Morning**
   * Opening
-  * Short introductory presentations (5min per person)
+  * Introductions (5min per person)
 * **March, 6th, Monday Afternoon**
-  * Short introductory presentations (5min per person)
-  * Breakout Sessions on `tbd
+  * Group Photo Shoot
+  * Introductions (5min per person)
+  * Talk #1: Jon Whittle
+  * (if time allows) Group sessions
 * **March, 7th, Tuesday Morning**
-  * Presentations from Breakout Sessions
-  * Keynote: `tbd`
+  * Talk #2: Nicole Novielli
+  * Presentations from Group Sessions
+  * Group sessions
 * **March, 7th, Tuesday Afternoon**
-  * Presentations from Breakout Sessions
-  * Breakout Sessions on `tbd`
+  * Talk #3: Andrew Bagel & Alexander Serebrenik
+  * Presentations from Group Sessions
+  * Group sessions
 * **March, 8th, Wednesday Morning**
-  * Presentations from Breakout Sessions
-  * Keynote: `tbd`
-  * `tbd`
+  * Presentations from Group Sessions
+  * Group sessions
 * **March, 8th, Wednesday Afternoon**
   * Excursion and Dinner
 * **March, 9th, Thursday Morning**
-  * Keynote: `tbd`
-  * `tbd`
+  * Group sessions
   * Wrap up
 
 ## Participants
-`tbd`
+`will be uploaded on Tuesday`
 
 ## Additional Information
 * [Official Webpage from NII](https://shonan.nii.ac.jp/seminars/191/)
