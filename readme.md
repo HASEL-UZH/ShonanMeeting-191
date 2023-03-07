@@ -74,28 +74,28 @@ This meeting will bring together leading researchers to discuss current and futu
 * Thomas Fritz, University of Zurich (Organizer)
 * Yasutaka Kamei, Kyushu University (Organizer)
 * Thomas Zimmermann, Microsoft (Organizer)
-* André N. Meyer, University of Zurich (Supporting organizers)
-* Raula Kula, Nara Institute of Science and Technology
-* Jin Guo, McGill University
-* Hideaki Hata, Shinshu University
-* Alexander Serebrenik, Eindhoven University of Technology
+* André N. Meyer, University of Zurich (Supporting organizer)
+* Andrew Begel, Carnegie Mellon University
 * Kelly Blincoe, University of Auckland
 * Daniel German, University of Victoria
+* Jin Guo, McGill University
+* Hideaki Hata, Shinshu University
 * Reid Holmes, University of British Columbia
-* Michele Lanza, Software Institute - USI, Lugano, Universita della Svizzera italiana
-* Gail C. Murphy, University of British Columbia
-* Bin Lin, Radboud University
-* Margaret Storey, University of Victoria
-* Dong Wang, Kyushu University
-* Masanari Kondo, Kyushu University
-* Andrew Begel, Carnegie Mellon University
-* Jon Whittle, CSIRO's Data61
-* Christoph Treude, The University of Melbourne
 * Foutse Khomh, Polytechnique Montréal
-* Daniel Russo, Aalborg University 
 * Takashi Kobayashi, Tokyo Institute of Technology
-* Nicole Novielli, University of Bari
+* Masanari Kondo, Kyushu University
+* Raula Kula, Nara Institute of Science and Technology
 * Filippo Lanubile, University of Bari
+* Michele Lanza, Software Institute - USI, Lugano, Universita della Svizzera italiana
+* Bin Lin, Radboud University
+* Gail C. Murphy, University of British Columbia
+* Nicole Novielli, University of Bari
+* Daniel Russo, Aalborg University
+* Alexander Serebrenik, Eindhoven University of Technology
+* Margaret Storey, University of Victoria
+* Christoph Treude, The University of Melbourne
+* Dong Wang, Kyushu University
+* Jon Whittle, CSIRO’s Data61
 
 ## Additional Information
 * [Official Webpage from NII](https://shonan.nii.ac.jp/seminars/191/)
