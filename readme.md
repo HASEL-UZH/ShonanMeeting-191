@@ -50,7 +50,6 @@ This meeting will bring together leading researchers to discuss current and futu
   * Introductions (5min per person)
 * **March, 6th, Monday Afternoon**
   * Group Photo Shoot
-  * Introductions (5min per person)
   * Talk #1: Jon Whittle
   * (if time allows) Group sessions
 * **March, 7th, Tuesday Morning**
@@ -58,7 +57,7 @@ This meeting will bring together leading researchers to discuss current and futu
   * Presentations from Group Sessions
   * Group sessions
 * **March, 7th, Tuesday Afternoon**
-  * Talk #3: Andrew Bagel & Alexander Serebrenik
+  * Talk #3: Andrew Begel & Alexander Serebrenik
   * Presentations from Group Sessions
   * Group sessions
 * **March, 8th, Wednesday Morning**
