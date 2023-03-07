@@ -45,14 +45,14 @@ This meeting will bring together leading researchers to discuss current and futu
 ## Meeting Agenda
 * **March, 5th, Sunday Evening**
   * Welcome Reception
-* **March, 6th, Monday Morning**
+* **March, 6th, Monday Morning (9am)**
   * Opening
   * Introductions (5min per person)
 * **March, 6th, Monday Afternoon**
   * Group Photo Shoot
   * Talk #1: Jon Whittle
   * (if time allows) Group sessions
-* **March, 7th, Tuesday Morning**
+* **March, 7th, Tuesday Morning (9am)**
   * Talk #2: Nicole Novielli
   * Presentations from Group Sessions
   * Group sessions
@@ -60,12 +60,12 @@ This meeting will bring together leading researchers to discuss current and futu
   * Talk #3: Andrew Begel & Alexander Serebrenik
   * Presentations from Group Sessions
   * Group sessions
-* **March, 8th, Wednesday Morning**
+* **March, 8th, Wednesday Morning (9am)**
   * Presentations from Group Sessions
   * Group sessions
 * **March, 8th, Wednesday Afternoon**
   * Excursion and Dinner
-* **March, 9th, Thursday Morning**
+* **March, 9th, Thursday Morning (9am)**
   * Group sessions
   * Wrap up
 
