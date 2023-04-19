@@ -107,4 +107,4 @@ This meeting will bring together leading researchers to discuss current and futu
 ![NII Logo](/images/nii_logo.gif)
 
 ## Report
-Will be created at the end of the Shonan meeting.
+The Report of the No191 Shonan Meeting can be accessed [here](/2023_ShonanMeeting191_Report.pdf).
